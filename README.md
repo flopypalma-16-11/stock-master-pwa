@@ -1,16 +1,35 @@
-# React + Vite
+# 📦 StockMaster PWA - Gestión de Inventario Inteligente
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a **StockMaster**! Esta es una Aplicación Web Progresiva (PWA) diseñada para digitalizar el control de stock y ventas en pequeñas empresas y comercios locales. 
 
-Currently, two official plugins are available:
+Desarrollada durante mi etapa de aprendizaje post-DAM, este proyecto nace de la necesidad de ofrecer una herramienta ágil, móvil y conectada a la nube para negocios que aún dependen del papel o de Excels complejos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Demo en Vivo
+Puedes probar la aplicación aquí: https://stockmasterpwa.netlify.app/login
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Funcionalidades Clave
 
-## Expanding the ESLint configuration
+- **TPV (Punto de Venta) Ágil:** Interfaz optimizada para registrar ventas rápidas, generar tickets virtuales y descontar stock automáticamente.
+- **Control de Caja Diaria:** Registro en tiempo real de ingresos y gastos para un cierre de caja sin errores.
+- **Gestión de Stock Crítico:** Alertas visuales automáticas cuando un producto necesita reposición urgente.
+- **Sincronización en la Nube:** Base de datos persistente con actualización instantánea entre dispositivos.
+- **Offline Ready (PWA):** Instalable en dispositivos móviles para una experiencia nativa.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Stack Tecnológico
+
+- **Frontend:** React.js + Vite
+- **Estilos:** Tailwind CSS (Diseño Mobile-First)
+- **Backend/Database:** Supabase (PostgreSQL)
+- **Autenticación:** Supabase Auth (Seguridad RLS activada)
+- **Despliegue:** Netlify
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy un desarrolladora Junior (DAM) apasionado por resolver problemas reales a través del código. Este proyecto es una muestra de mi capacidad para integrar herramientas de IA en el flujo de trabajo (Vibecoding) y desplegar soluciones funcionales de punta a punta.
+
+**¿Buscas talento proactivo en Sevilla o Remoto?** ¡Hablemos!
+645480065
